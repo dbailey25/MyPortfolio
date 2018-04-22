@@ -440,3 +440,17 @@ a:focus, a:hover, a:active {
   border-radius: 2px;
   margin: 15px 0 15px 0;
 }
+
+.socialBtn1 {
+  float: left;
+}
+
+.socialBtn2 {
+  float: left;
+  margin-left: 45px;
+}
+
+.socialBtnSize {
+  height: 150px;
+  width: 150px;
+}
